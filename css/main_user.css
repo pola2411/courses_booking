@@ -1,0 +1,11 @@
+.my_logo h1 a{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-shadow: 10px 10px 15px rgb(84, 144, 15);
+    border: 1px dotted white;
+}
+.sign_btn{
+margin-top: 15px;
+
+}
